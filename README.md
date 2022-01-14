@@ -6,5 +6,5 @@ PART 1: DATA PREPARATION AND CLEANING.
 PART 2: EXPLORATORY ANALYSIS AND CLEANING.      
 PART 3: ANSWERING THE MOST ASKED QUESTIONS ON GOOGLE ABOUT THE IPL.      
 PART 4: CONCLUSION AND INFERENCE.      
-Hope this helps anyone who are just entering into the Data Science field like me :)
-my socials: https://www.linkedin.com/in/sivatejaat
+Hope this helps anyone who are just entering into the Data Science field like me :)                      
+Link to my socials: https://www.linkedin.com/in/sivatejaat
