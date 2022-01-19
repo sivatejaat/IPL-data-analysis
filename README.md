@@ -5,7 +5,9 @@ THIS PROJECT MAINLY HAS 4 PARTS:
 PART 1: DATA PREPARATION AND CLEANING.                  
 PART 2: EXPLORATORY ANALYSIS AND CLEANING.      
 PART 3: ANSWERING THE MOST ASKED QUESTIONS ON GOOGLE ABOUT THE IPL.              
-ANSWERS TO SOME OF THE QUESTIONS:
+ANSWERS TO SOME OF THE QUESTIONS:                          
+WHICH VENUE HELD THE MOST NUMBER OF MATCHES?                 
+![image](https://user-images.githubusercontent.com/62197789/150106173-77dbb718-6941-4166-813f-f3498b50b6e0.png)
 
 PART 4: CONCLUSION AND INFERENCE.      
 Hope this helps anyone who are just entering into the Data Science field like me :)                      
